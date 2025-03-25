@@ -1,8 +1,7 @@
 # Hi there! I'm **Vishnuvardhan Babu** 👋  
 
 ## 💡 About Me  
-- I am a passionate engineering student at **Vardhaman College of Engineering**. My interests lie in **Web Development, Machine Learning, Problem Solving, and Data Structures & Algorithms (DSA)**.
-- I am always eager to explore new technologies and improve my skills.  
+- I am a passionate engineering student at **Vardhaman College of Engineering**. My interests lie in **Web Development, Machine Learning, Problem Solving, and Data Structures & Algorithms (DSA)**. I am always eager to explore new technologies and improve my skills.  
 
 ## 🚀 Skills  
 
