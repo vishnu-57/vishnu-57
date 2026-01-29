@@ -6,11 +6,11 @@
 ## 🚀 Skills  
 
 - **Languages:** C, Python, Java  
-- **Web Development:** HTML5, CSS3, JavaScript  
-- **Databases:** MySQL, MongoDB
-- **Cloud Technologies:** AWS
+- **Web Development:** HTML5, CSS3 
+- **Databases:** MySQL
+
 - **Tools:** Git, GitHub, VS Code  
-- **Relevant Coursework:** Object-Oriented Programming, Operating Systems, DBMS, Computer Networks  
+- **Relevant Coursework:** Object-Oriented Programming, Operating Systems, DBMS  
 
 ## 📊 GitHub Stats  
 
